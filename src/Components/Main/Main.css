@@ -1,0 +1,23 @@
+.meanings {
+    display: flex;
+    flex-direction: column;
+    overflow: scroll;
+    height: 700px;
+    border: 10px solid;
+    border-radius: 10px;
+    padding: 10px 20px;
+    overflow-x: hidden;
+}
+.title {
+    font-size: 50px;
+    text-align: center;
+    /* font-family:; */
+}
+.titletwo {
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    padding: 10px 20px;
+    margin: 10px 0;
+
+}
